@@ -1,6 +1,6 @@
 # **TITLE** 
 
-이동식 수소 충전소를 활용한 최적의 인프라 추천 
+이동식 수소 충전소를 활용한 최적의 인프라 추천 시스템 (Optimal infrastructure recommendation system using mobile hydrogen charging station)
 
 # **ABSTRACT**
 
